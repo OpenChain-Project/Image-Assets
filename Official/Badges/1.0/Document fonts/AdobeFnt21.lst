@@ -1,0 +1,35 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/alirowan 1/The Linux Foundation/Source Files (CS Only)/Working/Ali/OpenChain/Badge & Card/Document fonts/AdobeFnt21.lst
+FileLength:633
+FileModTime:596554671
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Light
+FamilyName:Open Sans
+StyleName:Light
+MenuName:Open Sans Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Open Sans Light
+WritingScript:Roman
+OutlineFileName:/Users/alirowan 1/The Linux Foundation/Source Files (CS Only)/Working/Ali/OpenChain/Badge & Card/Document fonts/OpenSans-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:222412
+FileModTime:326830606
+NameArray:0,Mac,4,Open Sans Light
+NameArray:0,Win,1,Open Sans Light
+NameArray:0,Win,16,Open Sans
+%EndFont
+
