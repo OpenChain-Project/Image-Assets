@@ -6,7 +6,7 @@
  </defs>
  <use id="g38-copy-1" xlink:href="#image" x="50px" y="860px" width="4100px" height="2179px"/>
  <defs>
-  <text id="string" transform="matrix(1.0 0.0 0.0 1.0 606.0 3044.0)" fill="#3f4d4e" text-decoration="none" y="848.0" font-family="HannotateSC-W5, Hannotate SC" font-size="800" x="694.0">中国</text>
+  <text id="string" transform="matrix(1.0 0.0 0.0 1.0 54.0 3144.0)" fill="#3f4d4e" text-decoration="none" y="736.0" font-family="NanumBrush, Nanum Brush Script" font-size="800" x="601.1999999999998">Automotive</text>
  </defs>
- <use id="中国" xlink:href="#string"/>
+ <use id="Automotive" xlink:href="#string"/>
 </svg>
