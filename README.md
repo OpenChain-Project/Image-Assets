@@ -4,7 +4,8 @@ This is where the various images for the OpenChain Project live.
 
 ## Using the OpenChain name and logo
 
-These images are under CC-0 licensing.
+These images are under CC BY-ND licensing:
+https://creativecommons.org/about/cclicenses/
 
 The OpenChain trademark is managed by [OpenChain project](https://openchain-project). Use of any trademark or logo is subject to the trademark policy available at [linuxfoundation.org/trademarks](https://linuxfoundation.org/trademarks).
 
